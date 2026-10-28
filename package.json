@@ -1,0 +1,12 @@
+{
+  "name": "pmoc-qr-sync",
+  "version": "1.0.0",
+  "description": "Sistema de Gestão de PMOC e Manutenção de Ar-Condicionado via QR Code",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["pmoc", "qrcode", "ar-condicionado", "manutencao"],
+  "author": "Leonardo Santos",
+  "license": "ISC"
+}
